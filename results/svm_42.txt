@@ -1,0 +1,16 @@
+'svm'
+accuracy_score': 0.994413407821229
+macro_f1: 0.993521421107628 
+./models/svm_gamma=0.001_C=0.2.joblib
+
+accuracy_score: 0.9720670391061452 
+macro_f1: 0.9691216404444877 
+./models/svm_gamma=0.001_C=0.5.joblib
+
+accuracy_score: 0.9888268156424581
+macro_f1: 0.9851769965454176 
+./model/svm_gamma=0.001_C=0.7.joblib
+
+accuracy_score: 0.9720670391061452
+macro_f1: 0.9748717288717289},
+./model/svm_gamma=0.0005_C=0.5.joblib

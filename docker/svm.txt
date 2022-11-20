@@ -1,0 +1,2 @@
+classifier_name:SVM
+random state=43
